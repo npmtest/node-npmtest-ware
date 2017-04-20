@@ -1,4 +1,7 @@
-# test coverage for  [ware (v1.3.0)](https://github.com/segmentio/ware)  [![npm package](https://img.shields.io/npm/v/npmtest-ware.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ware) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ware.svg)](https://travis-ci.org/npmtest/node-npmtest-ware)
+# npmtest-ware
+
+#### basic test coverage for  [ware (v1.3.0)](https://github.com/segmentio/ware)  [![npm package](https://img.shields.io/npm/v/npmtest-ware.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ware) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ware.svg)](https://travis-ci.org/npmtest/node-npmtest-ware)
+
 #### Easily create your own middleware layer.
 
 [![NPM](https://nodei.co/npm/ware.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ware)
